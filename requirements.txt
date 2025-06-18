@@ -1,4 +1,5 @@
 # Core dependencies
+moya-ai[ollama] # if not works use git files or pip install moya-ai[all]
 moya>=0.1.0  # For the Moya framework and agents
 ollama>=0.1.0  # For Ollama integration
 
