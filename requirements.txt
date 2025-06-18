@@ -1,0 +1,27 @@
+# Core dependencies
+moya>=0.1.0  # For the Moya framework and agents
+ollama>=0.1.0  # For Ollama integration
+
+# HTTP and API
+requests>=2.31.0
+urllib3>=2.0.7
+
+# Date and Time
+python-dateutil>=2.8.2
+
+# Windows Notification
+winotify>=0.1.0  # For reminder notifications
+
+# JSON handling
+json5>=0.9.14
+
+# Threading and async
+asyncio>=3.4.3
+
+# Regular expressions
+regex>=2023.10.3
+
+# Development dependencies
+pytest>=7.4.3  # For testing
+black>=23.11.0  # For code formatting
+flake8>=6.1.0  # For linting 

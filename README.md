@@ -1,5 +1,6 @@
 # MedMoya_agents
-Medical agents at your finger tips , build with Moya
+Medical agents at your finger tips, built with Moya
+
 # 🧠 Multi-Agent Healthcare Chat System
 
 This is a multi-agent conversational system built using the [Moya Framework](https://github.com/moyahq/moya) and [Ollama](https://ollama.com). It supports:
@@ -24,13 +25,12 @@ This is a multi-agent conversational system built using the [Moya Framework](htt
 
 > Ollama allows you to run LLMs like `gemma`, `llama3`, or `mistral` locally.
 
-#### \25b8 Install Ollama
+#### ▶ Install Ollama
 
 **For Windows / macOS / Linux:**
-
 Go to [https://ollama.com/download](https://ollama.com/download) and follow the platform-specific installation instructions.
 
-#### \25b8 Pull the model (e.g., Gemma 4B)
+#### ▶ Pull the model (e.g., Gemma 4B)
 
 ```bash
 ollama pull gemma:4b
@@ -56,7 +56,7 @@ cd moya
 pip install .
 ```
 
-> Make sure Moya’s modules like `moya.agents`, `moya.orchestrators`, etc. are accessible.
+> Make sure Moya's modules like `moya.agents`, `moya.orchestrators`, etc. are accessible.
 
 ---
 
@@ -77,11 +77,10 @@ pip install -r requirements.txt
 Run the main script:
 
 ```bash
-python main.py
+python ollama_multiagent.py
 ```
 
-You’ll be able to:
-
+You'll be able to:
 * Chat with a Medvisor for medical advice
 * Automatically fetch related products from Amazon
 * Set reminders with system notifications
@@ -135,7 +134,4 @@ You can ask about:
 
 ## 👤 Author
 
-**Vansh Rastogi**
-*Hardware + Software Developer | AI Agent Explorer*
-
----
+**Vansh Rastogi** _Hardware + Software Developer | AI Agent Explorer_
