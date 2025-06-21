@@ -11,7 +11,7 @@ This is a multi-agent conversational system built using the [Moya Framework](htt
 
 # Demo 
 
-![video](https://drive.google.com/uc?export=view&id=1sqNdSLcXf8qysezbWd60S-_Glo8JoXqO)
+![video](https://github.com/vanbitcase/MedMoya_agents/blob/main/med.png)(https://drive.google.com/uc?export=view&id=1sqNdSLcXf8qysezbWd60S-_Glo8JoXqO)
 
 ---
 
