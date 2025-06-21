@@ -9,10 +9,7 @@ This is a multi-agent conversational system built using the [Moya Framework](htt
 * Fetching healthcare products from Amazon, with help of product agent
 * Setting reminders for medicine intake based on the memory and chat with Medvisor agent
 
-# Demo 
-
-# Demo
-
+# Demo (Click to view it!) 
 [![Watch the Demo Video](med.png)](https://drive.google.com/file/d/1sqNdSLcXf8qysezbWd60S-_Glo8JoXqO/view?usp=sharing)
 
 ---
